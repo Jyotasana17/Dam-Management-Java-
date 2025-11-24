@@ -76,6 +76,7 @@ Users are initialized with their associated river basin ID.
 
 <img width="702" height="300" alt="image" src="https://github.com/user-attachments/assets/af9aaca2-51a8-4bf6-98cb-c5825e1fee4e" />
 
-Github Repo Link: 
+Github Repo Link: https://github.com/Jyotasana17/Dam-Management-Java-
+
 Project Report: https://docs.google.com/document/d/1MY5bs8D05L8t5yek_-4ZOXm1qzd4sCcAe1KkGG42jj4/edit?usp=sharing
 
